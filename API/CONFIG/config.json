@@ -1,0 +1,10 @@
+{
+    "api": {
+        "port": 7878
+    },
+    "wallet": {
+        "username": "",
+        "password": "",
+        "TransactionMemo": ""
+    }
+}
