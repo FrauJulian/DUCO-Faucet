@@ -26,8 +26,8 @@ Fork > Edit > Pull Request
 <br>
 
 ## 📋 Credits:
-~ Website design was copied from [`NL647`](https://github.com/phantom32-0). <br>
-~ JavaScript coded by [`FrauJulian`](https://github.com/FrauJulian). <br>
+~ Website design coded by [`Paranoia8972`](https://github.com/Paranoia8972). <br>
+~ API coded by [`FrauJulian`](https://github.com/FrauJulian). <br>
 
 <br>
 
