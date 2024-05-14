@@ -25,7 +25,9 @@
   },
   "homepage": "https://github.com/FrauJulian/DUCO-Faucet#readme",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "node-json-db": "^2.3.0"
   },
   "devDependencies": {
     "nodemon": "^3.1.0"
